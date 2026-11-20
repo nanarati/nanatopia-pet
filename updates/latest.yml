@@ -1,8 +1,8 @@
-version: 1.5.2
+version: 1.5.3
 files:
-  - url: NanatopiaPet-Setup-1.5.2.exe
-    sha512: /g7Xv3d3vs4g0bLje+zi90dmQKckxeEHk+oEJnje1Jh7S1FvIYIm1I1mkJ8v/W0FrE+JIFQSV5a0WvLe/CD7Zg==
-    size: 86812317
-path: NanatopiaPet-Setup-1.5.2.exe
-sha512: /g7Xv3d3vs4g0bLje+zi90dmQKckxeEHk+oEJnje1Jh7S1FvIYIm1I1mkJ8v/W0FrE+JIFQSV5a0WvLe/CD7Zg==
-releaseDate: '2026-11-20T17:39:57.107Z'
+  - url: NanatopiaPet-Setup-1.5.3.exe
+    sha512: N+vf95OKTPiLdonImqsRHL79LV0BUA6L2iNjtNwluYTEoKfbdj7X4KHMDIrhklj5mjoLhWaMIx1Mpft1v4tFAg==
+    size: 88160809
+path: NanatopiaPet-Setup-1.5.3.exe
+sha512: N+vf95OKTPiLdonImqsRHL79LV0BUA6L2iNjtNwluYTEoKfbdj7X4KHMDIrhklj5mjoLhWaMIx1Mpft1v4tFAg==
+releaseDate: '2026-11-20T18:06:21.006Z'
