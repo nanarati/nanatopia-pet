@@ -1,8 +1,8 @@
-version: 1.6.0
+version: 1.6.1
 files:
-  - url: NanatopiaPet-Setup-1.6.0.exe
-    sha512: QyEUbjUeVqSMwH+z/ugdjLoS7AUERm2HYJHP1Iya/OtWec7/fNZFKh3qZzC/mhWifEIZD2KtXKT5U3eZkPen8w==
-    size: 88175156
-path: NanatopiaPet-Setup-1.6.0.exe
-sha512: QyEUbjUeVqSMwH+z/ugdjLoS7AUERm2HYJHP1Iya/OtWec7/fNZFKh3qZzC/mhWifEIZD2KtXKT5U3eZkPen8w==
-releaseDate: '2026-11-20T18:44:45.047Z'
+  - url: NanatopiaPet-Setup-1.6.1.exe
+    sha512: oQurbCitkQkWhyFZVWxhy7idC6Qee5/rXl7UY34o9dznX6juWom14FHMOYmbOk9B3SZszTHlNSRpd5D0vsZG+Q==
+    size: 96426763
+path: NanatopiaPet-Setup-1.6.1.exe
+sha512: oQurbCitkQkWhyFZVWxhy7idC6Qee5/rXl7UY34o9dznX6juWom14FHMOYmbOk9B3SZszTHlNSRpd5D0vsZG+Q==
+releaseDate: '2026-11-20T18:50:40.629Z'
